@@ -12,5 +12,5 @@
    * ### 3 - Нож.
    * ### F - Осмотреть нож.
 ## ⁉️ Как скачать? 
-  * ### Тебе не надо скачивать игру, просто открой ссылку и играq на Scratch 3
+  * ### Тебе не надо скачивать игру, просто открой ссылку и играй на Scratch 3
   * ### [Ссылка на игру](https://github.com/LockPuzzle-Studio/Counter-Scratch-Global-Offensive-Scratch-Edition/releases/latest)

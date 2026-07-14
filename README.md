@@ -12,5 +12,5 @@
    * ### 3 - Knife.
    * ### F - Inspect knife.
 ## ⁉️ How to download? 
-  * ### You needn't to download the game, you can just open this link
-  * ### [Game Link](https://scratch.mit.edu/projects/870564283)
+  * ### You needn't to download the game, you can just open this link and play on Scratch 3
+  * ### [Game Link](https://github.com/LockPuzzle-Studio/Counter-Scratch-Global-Offensive-Scratch-Edition/releases/latest)

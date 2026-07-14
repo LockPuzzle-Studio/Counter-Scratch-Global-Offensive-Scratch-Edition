@@ -1,3 +1,4 @@
+![Logo](Logo.jpg)
 # Counter-Scratch: Global Offensive (Scratch Edition)
 ## [English][[Русский](README-RU.md)]
 ## ℹ️ Info 

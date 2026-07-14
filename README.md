@@ -1,4 +1,5 @@
 # Counter-Scratch: Global Offensive (Scratch Edition)
+## [English][[Русский](README-RU.md)]
 ## ℹ️ Info 
   * ### Counter-Scratch: Global Offensive - a parody of the game Counter-Strike: Global Offensive in Scratch 3.
   * ### Release date: 01/06/2023

@@ -1,4 +1,5 @@
 # Counter-Scratch: Global Offensive (Scratch Edition)
+## [[English](README.md)][Русский]
 ## ℹ️ Инфо 
   * ### Counter-Scratch: Global Offensive (Scratch Edition) - шутер от 1 лица, пародия на знаменитый тактический шутер 5vs5 Counter-Strike: Global Offensive.
   * ### Дата выпуска: 01/06/2023
